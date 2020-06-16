@@ -1,0 +1,19 @@
+{
+  "name": "twiliovoicenotification",
+  "version": "1.0.0",
+  "description": "send voice notifications via twilio ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twilio",
+    "microservices"
+  ],
+  "author": "Ajmal Ahamed",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twilio": "^3.44.0"
+  }
+}
